@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'sji2022_Example' do
+  pod 'sji2022', :path => '../'
+
+  target 'sji2022_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

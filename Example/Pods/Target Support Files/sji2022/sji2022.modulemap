@@ -1,0 +1,6 @@
+framework module sji2022 {
+  umbrella header "sji2022-umbrella.h"
+
+  export *
+  module * { export * }
+}

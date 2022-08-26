@@ -1,0 +1,6 @@
+framework module Pods_sji2022_Tests {
+  umbrella header "Pods-sji2022_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
